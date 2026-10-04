@@ -1,0 +1,6 @@
+{
+  "name": "Game Arena",
+  "description": "Premium online competitive gaming platform featuring 10 games with bot matches, friend multiplayer, private invite rooms, real-time synchronization, and global ratings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
